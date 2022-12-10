@@ -5,7 +5,7 @@ window.onload = function () {
     var appendTens = document.getElementById("tens")
     var appendSeconds = document.getElementById("seconds")
     var buttonStart = document.getElementById('btn-start');
-    var buttonStop = document.getElementById('btn-stop');
+    var buttonStop = document.getElementById('btn-pause');
     var buttonReset = document.getElementById('btn-reset');
     var Interval ;
   
